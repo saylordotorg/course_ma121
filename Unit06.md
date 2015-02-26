@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA121: Introduction to Statistics"
+course_description: "An examination of the properties behind the basic concepts of probability and statistics, designed to teach you ways to investigate the relationships between various characteristics of data."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Linear Regression** <span id="6"></span> 
 *In this unit, we will discuss situations in which the mean of a
 population, treated as a variable, depends on the value of another

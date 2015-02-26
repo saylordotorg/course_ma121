@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA121: Introduction to Statistics"
+course_description: "An examination of the properties behind the basic concepts of probability and statistics, designed to teach you ways to investigate the relationships between various characteristics of data."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Hypothesis Test** <span id="5"></span> 
 *A hypothesis test involves collecting and evaluating data from a
 sample. The data gathered and evaluated is then used to make a decision

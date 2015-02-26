@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA121: Introduction to Statistics"
+course_description: "An examination of the properties behind the basic concepts of probability and statistics, designed to teach you ways to investigate the relationships between various characteristics of data."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Statistics and Data** <span id="1"></span> 
 *In today’s technologically advanced world, we have access to large
 volumes of data. The first step of data analysis is to accurately

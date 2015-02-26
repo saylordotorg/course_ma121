@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA121: Introduction to Statistics"
+course_description: "An examination of the properties behind the basic concepts of probability and statistics, designed to teach you ways to investigate the relationships between various characteristics of data."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Sampling Distributions** <span id="3"></span> 
 *The concept of sampling distribution lies at the very foundation of
 statistical inference. It is best to introduce sampling distribution

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA121: Introduction to Statistics"
+course_description: "An examination of the properties behind the basic concepts of probability and statistics, designed to teach you ways to investigate the relationships between various characteristics of data."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Elements of Probability and Random Variables** <span
 id="2"></span> 
 *Probabilities affect our everyday lives. In this unit, you will learn

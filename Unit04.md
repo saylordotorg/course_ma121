@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA121: Introduction to Statistics"
+course_description: "An examination of the properties behind the basic concepts of probability and statistics, designed to teach you ways to investigate the relationships between various characteristics of data."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Estimation with Confidence Intervals** <span id="4"></span> 
 *In this unit, you will learn how to use the central limit theorem and
 confidence intervals, the latter of which enables you to estimate
